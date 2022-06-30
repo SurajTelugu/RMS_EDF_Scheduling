@@ -1,0 +1,274 @@
+Process P1: processing time=20; deadline:80; period:80 joined the system at time 0
+Process P2: processing time=30; deadline:50; period:50 joined the system at time 0
+Process P3: processing time=25; deadline:60; period:60 joined the system at time 0
+Process P2 starts execution at time 0.
+.Process P2 finishes execution at time 30.
+Process P3 starts execution at time 31.
+Process P3 finishes execution at time 55.
+Process P1 starts execution at time 56.
+Process P1 finishes execution at time 75.
+Process P3 starts execution at time 76.
+Process P3 finishes execution at time 100.
+Process P2 starts execution at time 101.
+Process P2 finishes execution at time 130.
+Process P1 starts execution at time 131.
+Process P1 finishes execution at time 150.
+Process P3 starts execution at time 151.
+Process P3 finishes execution at time 175.
+Process P1 starts execution at time 176.
+Process P1 finishes execution at time 195.
+Process P3 starts execution at time 196.
+Process P3 finishes execution at time 220.
+Process P2 starts execution at time 221.
+Process P2 finishes execution at time 250.
+Process P2 starts execution at time 251.
+Process P2 finishes execution at time 280.
+Process P1 starts execution at time 281.
+Process P1 finishes execution at time 300.
+Process P2 starts execution at time 301.
+Process P2 finishes execution at time 330.
+Process P3 starts execution at time 331.
+Process P3 finishes execution at time 355.
+Process P1 starts execution at time 356.
+Process P1 finishes execution at time 375.
+Process P3 starts execution at time 376.
+Process P3 finishes execution at time 400.
+Process P2 starts execution at time 401.
+Process P2 finishes execution at time 430.
+Process P1 starts execution at time 431.
+Process P1 finishes execution at time 450.
+Process P3 starts execution at time 451.
+Process P3 finishes execution at time 475.
+CPU is idle till time 479.
+Process P3 starts execution at time 481.
+Process P3 finishes execution at time 505.
+Process P2 starts execution at time 506.
+Process P2 finishes execution at time 535.
+Process P1 starts execution at time 536.
+Process P1 finishes execution at time 555.
+Process P2 starts execution at time 556.
+Process P2 finishes execution at time 585.
+Process P1 starts execution at time 586.
+Process P1 finishes execution at time 605.
+Process P2 starts execution at time 606.
+Process P2 finishes execution at time 635.
+Process P3 starts execution at time 636.
+Process P3 finishes execution at time 660.
+Process P2 starts execution at time 661.
+Process P2 finishes execution at time 690.
+Process P1 starts execution at time 691.
+Process P1 finishes execution at time 710.
+Process P2 starts execution at time 711.
+Process P2 finishes execution at time 740.
+Process P3 starts execution at time 741.
+Process P3 finishes execution at time 765.
+Process P1 starts execution at time 766.
+Process P1 finishes execution at time 785.
+Process P3 starts execution at time 786.
+Process P3 finishes execution at time 810.
+Process P2 starts execution at time 811.
+Process P2 finishes execution at time 840.
+Process P1 starts execution at time 841.
+Process P1 finishes execution at time 860.
+Process P2 starts execution at time 861.
+Process P2 finishes execution at time 890.
+Process P1 starts execution at time 891.
+Process P2 starts execution at time 901.
+Process P2 finishes execution at time 930.
+Process P1 finishes execution at time 940.
+CPU is idle till time 949.
+Process P2 starts execution at time 951.
+Process P2 finishes execution at time 980.
+Process P3 starts execution at time 981.
+Process P3 finishes execution at time 1005.
+Process P1 starts execution at time 1006.
+Process P1 finishes execution at time 1025.
+Process P3 starts execution at time 1026.
+Process P3 finishes execution at time 1050.
+Process P2 starts execution at time 1051.
+Process P2 finishes execution at time 1080.
+Process P1 starts execution at time 1081.
+Process P1 finishes execution at time 1100.
+Process P3 starts execution at time 1101.
+Process P3 finishes execution at time 1125.
+Process P1 starts execution at time 1126.
+Process P1 finishes execution at time 1145.
+Process P3 starts execution at time 1146.
+Process P2 starts execution at time 1151.
+Process P2 finishes execution at time 1180.
+Process P3 finishes execution at time 1200.
+Process P2 starts execution at time 1201.
+Process P2 finishes execution at time 1230.
+Process P3 starts execution at time 1231.
+Process P3 finishes execution at time 1255.
+Process P1 starts execution at time 1256.
+Process P1 finishes execution at time 1275.
+Process P3 starts execution at time 1276.
+Process P3 finishes execution at time 1300.
+Process P2 starts execution at time 1301.
+Process P2 finishes execution at time 1330.
+Process P1 starts execution at time 1331.
+Process P1 finishes execution at time 1350.
+Process P3 starts execution at time 1351.
+Process P3 finishes execution at time 1375.
+Process P1 starts execution at time 1376.
+Process P1 finishes execution at time 1395.
+Process P3 starts execution at time 1396.
+Process P3 finishes execution at time 1420.
+Process P2 starts execution at time 1421.
+Process P2 finishes execution at time 1450.
+Process P2 starts execution at time 1451.
+Process P2 finishes execution at time 1480.
+Process P1 starts execution at time 1481.
+Process P1 finishes execution at time 1500.
+Process P2 starts execution at time 1501.
+Process P2 finishes execution at time 1530.
+Process P3 starts execution at time 1531.
+Process P3 finishes execution at time 1555.
+Process P1 starts execution at time 1556.
+Process P1 finishes execution at time 1575.
+Process P3 starts execution at time 1576.
+Process P3 finishes execution at time 1600.
+Process P2 starts execution at time 1601.
+Process P2 finishes execution at time 1630.
+Process P1 starts execution at time 1631.
+Process P1 finishes execution at time 1650.
+Process P3 starts execution at time 1651.
+Process P3 finishes execution at time 1675.
+CPU is idle till time 1679.
+Process P3 starts execution at time 1681.
+Process P3 finishes execution at time 1705.
+Process P2 starts execution at time 1706.
+Process P2 finishes execution at time 1735.
+Process P1 starts execution at time 1736.
+Process P1 finishes execution at time 1755.
+Process P2 starts execution at time 1756.
+Process P2 finishes execution at time 1785.
+Process P1 starts execution at time 1786.
+Process P1 finishes execution at time 1805.
+Process P2 starts execution at time 1806.
+Process P2 finishes execution at time 1835.
+Process P3 starts execution at time 1836.
+Process P3 finishes execution at time 1860.
+Process P2 starts execution at time 1861.
+Process P2 finishes execution at time 1890.
+Process P1 starts execution at time 1891.
+Process P1 finishes execution at time 1910.
+Process P2 starts execution at time 1911.
+Process P2 finishes execution at time 1940.
+Process P3 starts execution at time 1941.
+Process P3 finishes execution at time 1965.
+Process P1 starts execution at time 1966.
+Process P1 finishes execution at time 1985.
+Process P3 starts execution at time 1986.
+Process P3 finishes execution at time 2010.
+Process P1 starts execution at time 2011.
+Process P1 finishes execution at time 2030.
+CPU is idle till time 2039.
+Process P3 starts execution at time 2041.
+Process P3 finishes execution at time 2065.
+CPU is idle till time 2079.
+Process P1 starts execution at time 2081.
+Process P1 finishes execution at time 2100.
+Process P3 starts execution at time 2101.
+Process P3 finishes execution at time 2125.
+CPU is idle till time 2159.
+Process P3 starts execution at time 2161.
+Process P3 finishes execution at time 2185.
+Process P1 starts execution at time 2186.
+Process P1 finishes execution at time 2205.
+CPU is idle till time 2219.
+Process P3 starts execution at time 2221.
+Process P3 finishes execution at time 2245.
+Process P1 starts execution at time 2246.
+Process P1 finishes execution at time 2265.
+CPU is idle till time 2279.
+Process P3 starts execution at time 2281.
+Process P3 finishes execution at time 2305.
+CPU is idle till time 2319.
+Process P1 starts execution at time 2321.
+Process P1 finishes execution at time 2340.
+Process P3 starts execution at time 2341.
+Process P3 finishes execution at time 2365.
+CPU is idle till time 2399.
+Process P3 starts execution at time 2401.
+Process P3 finishes execution at time 2425.
+Process P1 starts execution at time 2426.
+Process P1 finishes execution at time 2445.
+CPU is idle till time 2459.
+Process P3 starts execution at time 2461.
+Process P3 finishes execution at time 2485.
+Process P1 starts execution at time 2486.
+Process P1 finishes execution at time 2505.
+CPU is idle till time 2519.
+Process P3 starts execution at time 2521.
+Process P3 finishes execution at time 2545.
+CPU is idle till time 2559.
+Process P1 starts execution at time 2561.
+Process P1 finishes execution at time 2580.
+Process P3 starts execution at time 2581.
+Process P3 finishes execution at time 2605.
+CPU is idle till time 2639.
+Process P3 starts execution at time 2641.
+Process P3 finishes execution at time 2665.
+Process P1 starts execution at time 2666.
+Process P1 finishes execution at time 2685.
+CPU is idle till time 2699.
+Process P3 starts execution at time 2701.
+Process P3 finishes execution at time 2725.
+Process P1 starts execution at time 2726.
+Process P1 finishes execution at time 2745.
+CPU is idle till time 2759.
+Process P3 starts execution at time 2761.
+Process P3 finishes execution at time 2785.
+CPU is idle till time 2799.
+Process P1 starts execution at time 2801.
+Process P1 finishes execution at time 2820.
+Process P3 starts execution at time 2821.
+Process P3 finishes execution at time 2845.
+CPU is idle till time 2879.
+Process P3 starts execution at time 2881.
+Process P3 finishes execution at time 2905.
+Process P1 starts execution at time 2906.
+Process P1 finishes execution at time 2925.
+CPU is idle till time 2939.
+Process P3 starts execution at time 2941.
+Process P3 finishes execution at time 2965.
+Process P1 starts execution at time 2966.
+Process P1 finishes execution at time 2985.
+CPU is idle till time 3039.
+Process P1 starts execution at time 3041.
+Process P1 finishes execution at time 3060.
+CPU is idle till time 3119.
+Process P1 starts execution at time 3121.
+Process P1 finishes execution at time 3140.
+CPU is idle till time 3199.
+Process P1 starts execution at time 3201.
+Process P1 finishes execution at time 3220.
+CPU is idle till time 3279.
+Process P1 starts execution at time 3281.
+Process P1 finishes execution at time 3300.
+CPU is idle till time 3359.
+Process P1 starts execution at time 3361.
+Process P1 finishes execution at time 3380.
+CPU is idle till time 3439.
+Process P1 starts execution at time 3441.
+Process P1 finishes execution at time 3460.
+CPU is idle till time 3519.
+Process P1 starts execution at time 3521.
+Process P1 finishes execution at time 3540.
+CPU is idle till time 3599.
+Process P1 starts execution at time 3601.
+Process P1 finishes execution at time 3620.
+CPU is idle till time 3679.
+Process P1 starts execution at time 3681.
+Process P1 finishes execution at time 3700.
+CPU is idle till time 3759.
+Process P1 starts execution at time 3761.
+Process P1 finishes execution at time 3780.
+CPU is idle till time 3839.
+Process P1 starts execution at time 3841.
+Process P1 finishes execution at time 3860.
+CPU is idle till time 3919.
+Process P1 starts execution at time 3921.
+Process P1 finishes execution at time 3940.

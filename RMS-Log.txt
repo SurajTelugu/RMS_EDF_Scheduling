@@ -1,0 +1,336 @@
+Process P1: processing time=20; deadline:80; period:80 joined the system at time 0
+Process P2: processing time=30; deadline:50; period:50 joined the system at time 0
+Process P3: processing time=25; deadline:60; period:60 joined the system at time 0
+Process P2 starts execution at time 0
+Process P2 finishes execution at time 30.
+Process P3 starts execution at time 31.
+Process P3 is preempted by Process P2 at time 50 Remaining processing time: 5.
+Process P2 starts execution at time 51.
+Process P3 misses its deadline at time 60.
+Process P2 finishes execution at time 80.
+Process P1 misses its deadline at time 80.
+Process P3 starts execution at time 81.
+Process P3 is preempted by Process P2 at time 100 Remaining processing time: 5.
+Process P2 starts execution at time 101.
+Process P3 misses its deadline at time 120.
+Process P2 finishes execution at time 130.
+Process P3 starts execution at time 131.
+Process P3 is preempted by Process P2 at time 150 Remaining processing time: 5.
+Process P2 starts execution at time 151.
+Process P1 misses its deadline at time 160.
+Process P2 finishes execution at time 180.
+Process P3 misses its deadline at time 180.
+Process P3 starts execution at time 181.
+Process P3 is preempted by Process P2 at time 200 Remaining processing time: 5.
+Process P2 starts execution at time 201.
+Process P2 finishes execution at time 230.
+Process P3 resumes execution at time 231.
+Process P3 finishes execution at time 235.
+CPU is idle till time 239.
+Process P3 starts execution at time 241.
+Process P3 is preempted by Process P2 at time 250 Remaining processing time: 15.
+Process P2 starts execution at time 251.
+Process P2 finishes execution at time 280.
+Process P3 resumes execution at time 281.
+Process P3 finishes execution at time 295.
+Process P1 starts execution at time 296.
+Process P2 starts execution at time 301.
+Process P1 misses its deadline at time 320.
+Process P2 finishes execution at time 330.
+Process P3 starts execution at time 331.
+Process P3 is preempted by Process P2 at time 350 Remaining processing time: 5.
+Process P2 starts execution at time 351.
+Process P3 misses its deadline at time 360.
+Process P2 finishes execution at time 380.
+Process P3 starts execution at time 381.
+Process P1 misses its deadline at time 400.
+Process P2 starts execution at time 401.
+Process P3 misses its deadline at time 420.
+Process P2 finishes execution at time 430.
+Process P3 starts execution at time 431.
+Process P3 is preempted by Process P2 at time 450 Remaining processing time: 5.
+Process P2 starts execution at time 451.
+Process P2 finishes execution at time 480.
+Process P1 misses its deadline at time 480.
+Process P3 misses its deadline at time 480.
+Process P3 starts execution at time 481.
+Process P3 is preempted by Process P2 at time 500 Remaining processing time: 5.
+Process P2 starts execution at time 501.
+Process P2 finishes execution at time 530.
+Process P3 resumes execution at time 531.
+Process P3 finishes execution at time 535.
+Process P1 starts execution at time 536.
+Process P3 starts execution at time 541.
+Process P3 is preempted by Process P2 at time 550 Remaining processing time: 15.
+Process P2 starts execution at time 551.
+Process P1 misses its deadline at time 560.
+Process P2 finishes execution at time 580.
+Process P3 resumes execution at time 581.
+Process P3 finishes execution at time 595.
+Process P1 starts execution at time 596.
+Process P2 starts execution at time 601.
+Process P2 finishes execution at time 630.
+Process P3 starts execution at time 631.
+Process P1 misses its deadline at time 640.
+Process P3 is preempted by Process P2 at time 650 Remaining processing time: 5.
+Process P2 starts execution at time 651.
+Process P3 misses its deadline at time 660.
+Process P2 finishes execution at time 680.
+Process P3 starts execution at time 681.
+Process P3 is preempted by Process P2 at time 700 Remaining processing time: 5.
+Process P2 starts execution at time 701.
+Process P1 misses its deadline at time 720.
+Process P3 misses its deadline at time 720.
+Process P2 finishes execution at time 730.
+Process P3 starts execution at time 731.
+Process P3 is preempted by Process P2 at time 750 Remaining processing time: 5.
+Process P2 starts execution at time 751.
+Process P2 finishes execution at time 780.
+Process P3 misses its deadline at time 780.
+Process P3 starts execution at time 781.
+Process P1 misses its deadline at time 800.
+Process P2 starts execution at time 801.
+Process P2 finishes execution at time 830.
+Process P3 finishes execution at time 835.
+Process P1 starts execution at time 836.
+Process P3 starts execution at time 841.
+Process P3 is preempted by Process P2 at time 850 Remaining processing time: 15.
+Process P2 starts execution at time 851.
+Process P2 finishes execution at time 880.
+Process P1 misses its deadline at time 880.
+Process P3 resumes execution at time 881.
+Process P3 finishes execution at time 895.
+Process P1 starts execution at time 896.
+Process P2 starts execution at time 901.
+Process P2 finishes execution at time 930.
+Process P3 starts execution at time 931.
+Process P3 is preempted by Process P2 at time 950 Remaining processing time: 5.
+Process P2 starts execution at time 951.
+Process P1 misses its deadline at time 960.
+Process P3 misses its deadline at time 960.
+Process P2 finishes execution at time 980.
+Process P3 starts execution at time 981.
+Process P3 is preempted by Process P2 at time 1000 Remaining processing time: 5.
+Process P2 starts execution at time 1001.
+Process P3 misses its deadline at time 1020.
+Process P2 finishes execution at time 1030.
+Process P3 starts execution at time 1031.
+Process P1 misses its deadline at time 1040.
+Process P3 is preempted by Process P2 at time 1050 Remaining processing time: 5.
+Process P2 starts execution at time 1051.
+Process P2 finishes execution at time 1080.
+Process P3 misses its deadline at time 1080.
+Process P3 starts execution at time 1081.
+Process P3 is preempted by Process P2 at time 1100 Remaining processing time: 5.
+Process P2 starts execution at time 1101.
+Process P1 misses its deadline at time 1120.
+Process P2 finishes execution at time 1130.
+Process P3 resumes execution at time 1131.
+Process P3 finishes execution at time 1135.
+Process P1 starts execution at time 1136.
+Process P3 starts execution at time 1141.
+Process P3 is preempted by Process P2 at time 1150 Remaining processing time: 15.
+Process P2 starts execution at time 1151.
+Process P2 finishes execution at time 1180.
+Process P3 resumes execution at time 1181.
+Process P3 finishes execution at time 1195.
+CPU is idle till time 1199.
+Process P2 starts execution at time 1201.
+Process P2 finishes execution at time 1230.
+Process P3 starts execution at time 1231.
+Process P3 is preempted by Process P2 at time 1250 Remaining processing time: 5.
+Process P2 starts execution at time 1251.
+Process P3 misses its deadline at time 1260.
+Process P2 finishes execution at time 1280.
+Process P1 misses its deadline at time 1280.
+Process P3 starts execution at time 1281.
+Process P3 is preempted by Process P2 at time 1300 Remaining processing time: 5.
+Process P2 starts execution at time 1301.
+Process P3 misses its deadline at time 1320.
+Process P2 finishes execution at time 1330.
+Process P3 starts execution at time 1331.
+Process P3 is preempted by Process P2 at time 1350 Remaining processing time: 5.
+Process P2 starts execution at time 1351.
+Process P1 misses its deadline at time 1360.
+Process P2 finishes execution at time 1380.
+Process P3 misses its deadline at time 1380.
+Process P3 starts execution at time 1381.
+Process P3 is preempted by Process P2 at time 1400 Remaining processing time: 5.
+Process P2 starts execution at time 1401.
+Process P2 finishes execution at time 1430.
+Process P3 resumes execution at time 1431.
+Process P3 finishes execution at time 1435.
+CPU is idle till time 1439.
+Process P3 starts execution at time 1441.
+Process P3 is preempted by Process P2 at time 1450 Remaining processing time: 15.
+Process P2 starts execution at time 1451.
+Process P2 finishes execution at time 1480.
+Process P3 resumes execution at time 1481.
+Process P3 finishes execution at time 1495.
+Process P1 starts execution at time 1496.
+Process P2 starts execution at time 1501.
+Process P1 misses its deadline at time 1520.
+Process P2 finishes execution at time 1530.
+Process P3 starts execution at time 1531.
+Process P3 is preempted by Process P2 at time 1550 Remaining processing time: 5.
+Process P2 starts execution at time 1551.
+Process P3 misses its deadline at time 1560.
+Process P2 finishes execution at time 1580.
+Process P3 starts execution at time 1581.
+Process P1 misses its deadline at time 1600.
+Process P2 starts execution at time 1601.
+Process P3 misses its deadline at time 1620.
+Process P2 finishes execution at time 1630.
+Process P3 starts execution at time 1631.
+Process P3 is preempted by Process P2 at time 1650 Remaining processing time: 5.
+Process P2 starts execution at time 1651.
+Process P2 finishes execution at time 1680.
+Process P1 misses its deadline at time 1680.
+Process P3 misses its deadline at time 1680.
+Process P3 starts execution at time 1681.
+Process P3 is preempted by Process P2 at time 1700 Remaining processing time: 5.
+Process P2 starts execution at time 1701.
+Process P2 finishes execution at time 1730.
+Process P3 resumes execution at time 1731.
+Process P3 finishes execution at time 1735.
+Process P1 starts execution at time 1736.
+Process P3 starts execution at time 1741.
+Process P3 is preempted by Process P2 at time 1750 Remaining processing time: 15.
+Process P2 starts execution at time 1751.
+Process P1 misses its deadline at time 1760.
+Process P2 finishes execution at time 1780.
+Process P3 resumes execution at time 1781.
+Process P3 finishes execution at time 1795.
+Process P1 starts execution at time 1796.
+Process P2 starts execution at time 1801.
+Process P2 finishes execution at time 1830.
+Process P3 starts execution at time 1831.
+Process P1 misses its deadline at time 1840.
+Process P3 is preempted by Process P2 at time 1850 Remaining processing time: 5.
+Process P2 starts execution at time 1851.
+Process P3 misses its deadline at time 1860.
+Process P2 finishes execution at time 1880.
+Process P3 starts execution at time 1881.
+Process P3 is preempted by Process P2 at time 1900 Remaining processing time: 5.
+Process P2 starts execution at time 1901.
+Process P1 misses its deadline at time 1920.
+Process P3 misses its deadline at time 1920.
+Process P2 finishes execution at time 1930.
+Process P3 starts execution at time 1931.
+Process P3 is preempted by Process P2 at time 1950 Remaining processing time: 5.
+Process P2 starts execution at time 1951.
+Process P2 finishes execution at time 1980.
+Process P3 misses its deadline at time 1980.
+Process P3 starts execution at time 1981.
+Process P1 misses its deadline at time 2000.
+Process P3 finishes execution at time 2005.
+Process P1 starts execution at time 2006.
+Process P1 finishes execution at time 2025.
+CPU is idle till time 2039.
+Process P3 starts execution at time 2041.
+Process P3 finishes execution at time 2065.
+CPU is idle till time 2079.
+Process P1 starts execution at time 2081.
+Process P1 finishes execution at time 2100.
+Process P3 starts execution at time 2101.
+Process P3 finishes execution at time 2125.
+CPU is idle till time 2159.
+Process P3 starts execution at time 2161.
+Process P3 finishes execution at time 2185.
+Process P1 starts execution at time 2186.
+Process P1 finishes execution at time 2205.
+CPU is idle till time 2219.
+Process P3 starts execution at time 2221.
+Process P3 finishes execution at time 2245.
+Process P1 starts execution at time 2246.
+Process P1 finishes execution at time 2265.
+CPU is idle till time 2279.
+Process P3 starts execution at time 2281.
+Process P3 finishes execution at time 2305.
+CPU is idle till time 2319.
+Process P1 starts execution at time 2321.
+Process P1 finishes execution at time 2340.
+Process P3 starts execution at time 2341.
+Process P3 finishes execution at time 2365.
+CPU is idle till time 2399.
+Process P3 starts execution at time 2401.
+Process P3 finishes execution at time 2425.
+Process P1 starts execution at time 2426.
+Process P1 finishes execution at time 2445.
+CPU is idle till time 2459.
+Process P3 starts execution at time 2461.
+Process P3 finishes execution at time 2485.
+Process P1 starts execution at time 2486.
+Process P1 finishes execution at time 2505.
+CPU is idle till time 2519.
+Process P3 starts execution at time 2521.
+Process P3 finishes execution at time 2545.
+CPU is idle till time 2559.
+Process P1 starts execution at time 2561.
+Process P1 finishes execution at time 2580.
+Process P3 starts execution at time 2581.
+Process P3 finishes execution at time 2605.
+CPU is idle till time 2639.
+Process P3 starts execution at time 2641.
+Process P3 finishes execution at time 2665.
+Process P1 starts execution at time 2666.
+Process P1 finishes execution at time 2685.
+CPU is idle till time 2699.
+Process P3 starts execution at time 2701.
+Process P3 finishes execution at time 2725.
+Process P1 starts execution at time 2726.
+Process P1 finishes execution at time 2745.
+CPU is idle till time 2759.
+Process P3 starts execution at time 2761.
+Process P3 finishes execution at time 2785.
+CPU is idle till time 2799.
+Process P1 starts execution at time 2801.
+Process P1 finishes execution at time 2820.
+Process P3 starts execution at time 2821.
+Process P3 finishes execution at time 2845.
+CPU is idle till time 2879.
+Process P3 starts execution at time 2881.
+Process P3 finishes execution at time 2905.
+Process P1 starts execution at time 2906.
+Process P1 finishes execution at time 2925.
+CPU is idle till time 2939.
+Process P3 starts execution at time 2941.
+Process P3 finishes execution at time 2965.
+Process P1 starts execution at time 2966.
+Process P1 finishes execution at time 2985.
+CPU is idle till time 3039.
+Process P1 starts execution at time 3041.
+Process P1 finishes execution at time 3060.
+CPU is idle till time 3119.
+Process P1 starts execution at time 3121.
+Process P1 finishes execution at time 3140.
+CPU is idle till time 3199.
+Process P1 starts execution at time 3201.
+Process P1 finishes execution at time 3220.
+CPU is idle till time 3279.
+Process P1 starts execution at time 3281.
+Process P1 finishes execution at time 3300.
+CPU is idle till time 3359.
+Process P1 starts execution at time 3361.
+Process P1 finishes execution at time 3380.
+CPU is idle till time 3439.
+Process P1 starts execution at time 3441.
+Process P1 finishes execution at time 3460.
+CPU is idle till time 3519.
+Process P1 starts execution at time 3521.
+Process P1 finishes execution at time 3540.
+CPU is idle till time 3599.
+Process P1 starts execution at time 3601.
+Process P1 finishes execution at time 3620.
+CPU is idle till time 3679.
+Process P1 starts execution at time 3681.
+Process P1 finishes execution at time 3700.
+CPU is idle till time 3759.
+Process P1 starts execution at time 3761.
+Process P1 finishes execution at time 3780.
+CPU is idle till time 3839.
+Process P1 starts execution at time 3841.
+Process P1 finishes execution at time 3860.
+CPU is idle till time 3919.
+Process P1 starts execution at time 3921.
+Process P1 finishes execution at time 3940.
